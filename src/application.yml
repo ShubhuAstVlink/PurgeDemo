@@ -1,0 +1,5 @@
+dna:
+  secrets:
+    passwords:
+      - ${MONGO_PASSWORD}
+      - "abcd123qwe"
